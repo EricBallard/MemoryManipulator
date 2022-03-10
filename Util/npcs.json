@@ -1,0 +1,2426 @@
+[
+  {
+    "id": "-65",
+    "name": "Hornet"
+  },
+  {
+    "id": "-64",
+    "name": "Hornet"
+  },
+  {
+    "id": "-63",
+    "name": "Hornet"
+  },
+  {
+    "id": "-62",
+    "name": "Hornet"
+  },
+  {
+    "id": "-61",
+    "name": "Hornet"
+  },
+  {
+    "id": "-60",
+    "name": "Hornet"
+  },
+  {
+    "id": "-59",
+    "name": "Hornet"
+  },
+  {
+    "id": "-58",
+    "name": "Hornet"
+  },
+  {
+    "id": "-57",
+    "name": "Hornet"
+  },
+  {
+    "id": "-56",
+    "name": "Hornet"
+  },
+  {
+    "id": "-55",
+    "name": "Zombie"
+  },
+  {
+    "id": "-54",
+    "name": "Zombie"
+  },
+  {
+    "id": "-53",
+    "name": "Skeleton"
+  },
+  {
+    "id": "-52",
+    "name": "Skeleton"
+  },
+  {
+    "id": "-51",
+    "name": "Skeleton"
+  },
+  {
+    "id": "-50",
+    "name": "Skeleton"
+  },
+  {
+    "id": "-49",
+    "name": "Skeleton"
+  },
+  {
+    "id": "-48",
+    "name": "Skeleton"
+  },
+  {
+    "id": "-47",
+    "name": "Skeleton"
+  },
+  {
+    "id": "-46",
+    "name": "Skeleton"
+  },
+  {
+    "id": "-45",
+    "name": "Zombie"
+  },
+  {
+    "id": "-44",
+    "name": "Zombie"
+  },
+  {
+    "id": "-43",
+    "name": "Demon Eye"
+  },
+  {
+    "id": "-42",
+    "name": "Demon Eye"
+  },
+  {
+    "id": "-41",
+    "name": "Demon Eye"
+  },
+  {
+    "id": "-40",
+    "name": "Demon Eye"
+  },
+  {
+    "id": "-39",
+    "name": "Demon Eye"
+  },
+  {
+    "id": "-38",
+    "name": "Demon Eye"
+  },
+  {
+    "id": "-37",
+    "name": "Zombie"
+  },
+  {
+    "id": "-36",
+    "name": "Zombie"
+  },
+  {
+    "id": "-35",
+    "name": "Zombie"
+  },
+  {
+    "id": "-34",
+    "name": "Zombie"
+  },
+  {
+    "id": "-33",
+    "name": "Zombie"
+  },
+  {
+    "id": "-32",
+    "name": "Zombie"
+  },
+  {
+    "id": "-31",
+    "name": "Zombie"
+  },
+  {
+    "id": "-30",
+    "name": "Zombie"
+  },
+  {
+    "id": "-29",
+    "name": "Zombie"
+  },
+  {
+    "id": "-28",
+    "name": "Zombie"
+  },
+  {
+    "id": "-27",
+    "name": "Zombie"
+  },
+  {
+    "id": "-26",
+    "name": "Zombie"
+  },
+  {
+    "id": "-25",
+    "name": "Crimslime"
+  },
+  {
+    "id": "-24",
+    "name": "Crimslime"
+  },
+  {
+    "id": "-23",
+    "name": "Crimera"
+  },
+  {
+    "id": "-22",
+    "name": "Crimera"
+  },
+  {
+    "id": "-21",
+    "name": "Moss Hornet"
+  },
+  {
+    "id": "-20",
+    "name": "Moss Hornet"
+  },
+  {
+    "id": "-19",
+    "name": "Moss Hornet"
+  },
+  {
+    "id": "-18",
+    "name": "Moss Hornet"
+  },
+  {
+    "id": "-17",
+    "name": "Hornet"
+  },
+  {
+    "id": "-16",
+    "name": "Hornet"
+  },
+  {
+    "id": "-15",
+    "name": "Armored Skeleton"
+  },
+  {
+    "id": "-14",
+    "name": "Angry Bones"
+  },
+  {
+    "id": "-13",
+    "name": "Angry Bones"
+  },
+  {
+    "id": "-12",
+    "name": "Eater of Souls"
+  },
+  {
+    "id": "-11",
+    "name": "Eater of Souls"
+  },
+  {
+    "id": "-10",
+    "name": "Jungle Slime"
+  },
+  {
+    "id": "-9",
+    "name": "Yellow Slime"
+  },
+  {
+    "id": "-8",
+    "name": "Red Slime"
+  },
+  {
+    "id": "-7",
+    "name": "Purple Slime"
+  },
+  {
+    "id": "-6",
+    "name": "Black Slime"
+  },
+  {
+    "id": "-5",
+    "name": "Baby Slime"
+  },
+  {
+    "id": "-4",
+    "name": "Pinky"
+  },
+  {
+    "id": "-3",
+    "name": "Green Slime"
+  },
+  {
+    "id": "-2",
+    "name": "Slimer"
+  },
+  {
+    "id": "-1",
+    "name": "Slimeling"
+  },
+  {
+    "id": "1",
+    "name": "Blue Slime"
+  },
+  {
+    "id": "2",
+    "name": "Demon Eye"
+  },
+  {
+    "id": "3",
+    "name": "Zombie"
+  },
+  {
+    "id": "4",
+    "name": "Eye of Cthulhu"
+  },
+  {
+    "id": "5",
+    "name": "Servant of Cthulhu"
+  },
+  {
+    "id": "6",
+    "name": "Eater of Souls"
+  },
+  {
+    "id": "7",
+    "name": "Devourer"
+  },
+  {
+    "id": "8",
+    "name": "Devourer"
+  },
+  {
+    "id": "9",
+    "name": "Devourer"
+  },
+  {
+    "id": "10",
+    "name": "Giant Worm"
+  },
+  {
+    "id": "11",
+    "name": "Giant Worm"
+  },
+  {
+    "id": "12",
+    "name": "Giant Worm"
+  },
+  {
+    "id": "13",
+    "name": "Eater of Worlds"
+  },
+  {
+    "id": "14",
+    "name": "Eater of Worlds"
+  },
+  {
+    "id": "15",
+    "name": "Eater of Worlds"
+  },
+  {
+    "id": "16",
+    "name": "Mother Slime"
+  },
+  {
+    "id": "17",
+    "name": "Merchant"
+  },
+  {
+    "id": "18",
+    "name": "Nurse"
+  },
+  {
+    "id": "19",
+    "name": "Arms Dealer"
+  },
+  {
+    "id": "20",
+    "name": "Dryad"
+  },
+  {
+    "id": "21",
+    "name": "Skeleton"
+  },
+  {
+    "id": "22",
+    "name": "Guide"
+  },
+  {
+    "id": "23",
+    "name": "Meteor Head"
+  },
+  {
+    "id": "24",
+    "name": "Fire Imp"
+  },
+  {
+    "id": "25",
+    "name": "Burning Sphere"
+  },
+  {
+    "id": "26",
+    "name": "Goblin Peon"
+  },
+  {
+    "id": "27",
+    "name": "Goblin Thief"
+  },
+  {
+    "id": "28",
+    "name": "Goblin Warrior"
+  },
+  {
+    "id": "29",
+    "name": "Goblin Sorcerer"
+  },
+  {
+    "id": "30",
+    "name": "Chaos Ball"
+  },
+  {
+    "id": "31",
+    "name": "Angry Bones"
+  },
+  {
+    "id": "32",
+    "name": "Dark Caster"
+  },
+  {
+    "id": "33",
+    "name": "Water Sphere"
+  },
+  {
+    "id": "34",
+    "name": "Cursed Skull"
+  },
+  {
+    "id": "35",
+    "name": "Skeletron"
+  },
+  {
+    "id": "36",
+    "name": "Skeletron"
+  },
+  {
+    "id": "37",
+    "name": "Old Man"
+  },
+  {
+    "id": "38",
+    "name": "Demolitionist"
+  },
+  {
+    "id": "39",
+    "name": "Bone Serpent"
+  },
+  {
+    "id": "40",
+    "name": "Bone Serpent"
+  },
+  {
+    "id": "41",
+    "name": "Bone Serpent"
+  },
+  {
+    "id": "42",
+    "name": "Hornet"
+  },
+  {
+    "id": "43",
+    "name": "Man Eater"
+  },
+  {
+    "id": "44",
+    "name": "Undead Miner"
+  },
+  {
+    "id": "45",
+    "name": "Tim"
+  },
+  {
+    "id": "46",
+    "name": "Bunny"
+  },
+  {
+    "id": "47",
+    "name": "Corrupt Bunny"
+  },
+  {
+    "id": "48",
+    "name": "Harpy"
+  },
+  {
+    "id": "49",
+    "name": "Cave Bat"
+  },
+  {
+    "id": "50",
+    "name": "King Slime"
+  },
+  {
+    "id": "51",
+    "name": "Jungle Bat"
+  },
+  {
+    "id": "52",
+    "name": "Doctor Bones"
+  },
+  {
+    "id": "53",
+    "name": "The Groom"
+  },
+  {
+    "id": "54",
+    "name": "Clothier"
+  },
+  {
+    "id": "55",
+    "name": "Goldfish"
+  },
+  {
+    "id": "56",
+    "name": "Snatcher"
+  },
+  {
+    "id": "57",
+    "name": "Corrupt Goldfish"
+  },
+  {
+    "id": "58",
+    "name": "Piranha"
+  },
+  {
+    "id": "59",
+    "name": "Lava Slime"
+  },
+  {
+    "id": "60",
+    "name": "Hellbat"
+  },
+  {
+    "id": "61",
+    "name": "Vulture"
+  },
+  {
+    "id": "62",
+    "name": "Demon"
+  },
+  {
+    "id": "63",
+    "name": "Blue Jellyfish"
+  },
+  {
+    "id": "64",
+    "name": "Pink Jellyfish"
+  },
+  {
+    "id": "65",
+    "name": "Shark"
+  },
+  {
+    "id": "66",
+    "name": "Voodoo Demon"
+  },
+  {
+    "id": "67",
+    "name": "Crab"
+  },
+  {
+    "id": "68",
+    "name": "Dungeon Guardian"
+  },
+  {
+    "id": "69",
+    "name": "Antlion"
+  },
+  {
+    "id": "70",
+    "name": "Spike Ball"
+  },
+  {
+    "id": "71",
+    "name": "Dungeon Slime"
+  },
+  {
+    "id": "72",
+    "name": "Blazing Wheel"
+  },
+  {
+    "id": "73",
+    "name": "Goblin Scout"
+  },
+  {
+    "id": "74",
+    "name": "Bird"
+  },
+  {
+    "id": "75",
+    "name": "Pixie"
+  },
+  {
+    "id": "77",
+    "name": "Armored Skeleton"
+  },
+  {
+    "id": "78",
+    "name": "Mummy"
+  },
+  {
+    "id": "79",
+    "name": "Dark Mummy"
+  },
+  {
+    "id": "80",
+    "name": "Light Mummy"
+  },
+  {
+    "id": "81",
+    "name": "Corrupt Slime"
+  },
+  {
+    "id": "82",
+    "name": "Wraith"
+  },
+  {
+    "id": "83",
+    "name": "Cursed Hammer"
+  },
+  {
+    "id": "84",
+    "name": "Enchanted Sword"
+  },
+  {
+    "id": "85",
+    "name": "Mimic"
+  },
+  {
+    "id": "86",
+    "name": "Unicorn"
+  },
+  {
+    "id": "87",
+    "name": "Wyvern"
+  },
+  {
+    "id": "88",
+    "name": "Wyvern"
+  },
+  {
+    "id": "89",
+    "name": "Wyvern"
+  },
+  {
+    "id": "90",
+    "name": "Wyvern"
+  },
+  {
+    "id": "91",
+    "name": "Wyvern"
+  },
+  {
+    "id": "92",
+    "name": "Wyvern"
+  },
+  {
+    "id": "93",
+    "name": "Giant Bat"
+  },
+  {
+    "id": "94",
+    "name": "Corruptor"
+  },
+  {
+    "id": "95",
+    "name": "Digger"
+  },
+  {
+    "id": "96",
+    "name": "Digger"
+  },
+  {
+    "id": "97",
+    "name": "Digger"
+  },
+  {
+    "id": "98",
+    "name": "World Feeder"
+  },
+  {
+    "id": "99",
+    "name": "World Feeder"
+  },
+  {
+    "id": "100",
+    "name": "World Feeder"
+  },
+  {
+    "id": "101",
+    "name": "Clinger"
+  },
+  {
+    "id": "102",
+    "name": "Angler Fish"
+  },
+  {
+    "id": "103",
+    "name": "Green Jellyfish"
+  },
+  {
+    "id": "104",
+    "name": "Werewolf"
+  },
+  {
+    "id": "105",
+    "name": "Bound Goblin"
+  },
+  {
+    "id": "106",
+    "name": "Bound Wizard"
+  },
+  {
+    "id": "107",
+    "name": "Goblin Tinkerer"
+  },
+  {
+    "id": "108",
+    "name": "Wizard"
+  },
+  {
+    "id": "109",
+    "name": "Clown"
+  },
+  {
+    "id": "110",
+    "name": "Skeleton Archer"
+  },
+  {
+    "id": "111",
+    "name": "Goblin Archer"
+  },
+  {
+    "id": "112",
+    "name": "Vile Spit"
+  },
+  {
+    "id": "113",
+    "name": "Wall of Flesh"
+  },
+  {
+    "id": "114",
+    "name": "Wall of Flesh"
+  },
+  {
+    "id": "115",
+    "name": "The Hungry"
+  },
+  {
+    "id": "116",
+    "name": "The Hungry"
+  },
+  {
+    "id": "117",
+    "name": "Leech"
+  },
+  {
+    "id": "118",
+    "name": "Leech"
+  },
+  {
+    "id": "119",
+    "name": "Leech"
+  },
+  {
+    "id": "120",
+    "name": "Chaos Elemental"
+  },
+  {
+    "id": "121",
+    "name": "Slimer"
+  },
+  {
+    "id": "122",
+    "name": "Gastropod"
+  },
+  {
+    "id": "123",
+    "name": "Bound Mechanic"
+  },
+  {
+    "id": "124",
+    "name": "Mechanic"
+  },
+  {
+    "id": "125",
+    "name": "Retinazer"
+  },
+  {
+    "id": "126",
+    "name": "Spazmatism"
+  },
+  {
+    "id": "127",
+    "name": "Skeletron Prime"
+  },
+  {
+    "id": "128",
+    "name": "Prime Cannon"
+  },
+  {
+    "id": "129",
+    "name": "Prime Saw"
+  },
+  {
+    "id": "130",
+    "name": "Prime Vice"
+  },
+  {
+    "id": "131",
+    "name": "Prime Laser"
+  },
+  {
+    "id": "132",
+    "name": "Zombie"
+  },
+  {
+    "id": "133",
+    "name": "Wandering Eye"
+  },
+  {
+    "id": "134",
+    "name": "The Destroyer"
+  },
+  {
+    "id": "135",
+    "name": "The Destroyer"
+  },
+  {
+    "id": "136",
+    "name": "The Destroyer"
+  },
+  {
+    "id": "137",
+    "name": "Illuminant Bat"
+  },
+  {
+    "id": "138",
+    "name": "Illuminant Slime"
+  },
+  {
+    "id": "139",
+    "name": "Probe"
+  },
+  {
+    "id": "140",
+    "name": "Possessed Armor"
+  },
+  {
+    "id": "141",
+    "name": "Toxic Sludge"
+  },
+  {
+    "id": "142",
+    "name": "Santa Claus"
+  },
+  {
+    "id": "143",
+    "name": "Snowman Gangsta"
+  },
+  {
+    "id": "144",
+    "name": "Mister Stabby"
+  },
+  {
+    "id": "145",
+    "name": "Snow Balla"
+  },
+  {
+    "id": "147",
+    "name": "Ice Slime"
+  },
+  {
+    "id": "148",
+    "name": "Penguin"
+  },
+  {
+    "id": "149",
+    "name": "Penguin"
+  },
+  {
+    "id": "150",
+    "name": "Ice Bat"
+  },
+  {
+    "id": "151",
+    "name": "Lava Bat"
+  },
+  {
+    "id": "152",
+    "name": "Giant Flying Fox"
+  },
+  {
+    "id": "153",
+    "name": "Giant Tortoise"
+  },
+  {
+    "id": "154",
+    "name": "Ice Tortoise"
+  },
+  {
+    "id": "155",
+    "name": "Wolf"
+  },
+  {
+    "id": "156",
+    "name": "Red Devil"
+  },
+  {
+    "id": "157",
+    "name": "Arapaima"
+  },
+  {
+    "id": "158",
+    "name": "Vampire"
+  },
+  {
+    "id": "159",
+    "name": "Vampire"
+  },
+  {
+    "id": "160",
+    "name": "Truffle"
+  },
+  {
+    "id": "161",
+    "name": "Zombie Eskimo"
+  },
+  {
+    "id": "162",
+    "name": "Frankenstein"
+  },
+  {
+    "id": "163",
+    "name": "Black Recluse"
+  },
+  {
+    "id": "164",
+    "name": "Wall Creeper"
+  },
+  {
+    "id": "165",
+    "name": "Wall Creeper"
+  },
+  {
+    "id": "166",
+    "name": "Swamp Thing"
+  },
+  {
+    "id": "167",
+    "name": "Undead Viking"
+  },
+  {
+    "id": "168",
+    "name": "Corrupt Penguin"
+  },
+  {
+    "id": "169",
+    "name": "Ice Elemental"
+  },
+  {
+    "id": "170",
+    "name": "Pigron"
+  },
+  {
+    "id": "171",
+    "name": "Pigron"
+  },
+  {
+    "id": "172",
+    "name": "Rune Wizard"
+  },
+  {
+    "id": "173",
+    "name": "Crimera"
+  },
+  {
+    "id": "174",
+    "name": "Herpling"
+  },
+  {
+    "id": "175",
+    "name": "Angry Trapper"
+  },
+  {
+    "id": "176",
+    "name": "Moss Hornet"
+  },
+  {
+    "id": "177",
+    "name": "Derpling"
+  },
+  {
+    "id": "178",
+    "name": "Steampunker"
+  },
+  {
+    "id": "179",
+    "name": "Crimson Axe"
+  },
+  {
+    "id": "180",
+    "name": "Pigron"
+  },
+  {
+    "id": "181",
+    "name": "Face Monster"
+  },
+  {
+    "id": "182",
+    "name": "Floaty Gross"
+  },
+  {
+    "id": "183",
+    "name": "Crimslime"
+  },
+  {
+    "id": "184",
+    "name": "Spiked Ice Slime"
+  },
+  {
+    "id": "185",
+    "name": "Snow Flinx"
+  },
+  {
+    "id": "186",
+    "name": "Zombie"
+  },
+  {
+    "id": "187",
+    "name": "Zombie"
+  },
+  {
+    "id": "188",
+    "name": "Zombie"
+  },
+  {
+    "id": "189",
+    "name": "Zombie"
+  },
+  {
+    "id": "190",
+    "name": "Demon Eye"
+  },
+  {
+    "id": "191",
+    "name": "Demon Eye"
+  },
+  {
+    "id": "192",
+    "name": "Demon Eye"
+  },
+  {
+    "id": "193",
+    "name": "Demon Eye"
+  },
+  {
+    "id": "194",
+    "name": "Demon Eye"
+  },
+  {
+    "id": "195",
+    "name": "Lost Girl"
+  },
+  {
+    "id": "196",
+    "name": "Nymph"
+  },
+  {
+    "id": "197",
+    "name": "Armored Viking"
+  },
+  {
+    "id": "198",
+    "name": "Lihzahrd"
+  },
+  {
+    "id": "199",
+    "name": "Lihzahrd"
+  },
+  {
+    "id": "200",
+    "name": "Zombie"
+  },
+  {
+    "id": "201",
+    "name": "Skeleton"
+  },
+  {
+    "id": "202",
+    "name": "Skeleton"
+  },
+  {
+    "id": "203",
+    "name": "Skeleton"
+  },
+  {
+    "id": "204",
+    "name": "Spiked Jungle Slime"
+  },
+  {
+    "id": "205",
+    "name": "Moth"
+  },
+  {
+    "id": "206",
+    "name": "Icy Merman"
+  },
+  {
+    "id": "207",
+    "name": "Dye Trader"
+  },
+  {
+    "id": "208",
+    "name": "Party Girl"
+  },
+  {
+    "id": "209",
+    "name": "Cyborg"
+  },
+  {
+    "id": "210",
+    "name": "Bee"
+  },
+  {
+    "id": "211",
+    "name": "Bee"
+  },
+  {
+    "id": "212",
+    "name": "Pirate Deckhand"
+  },
+  {
+    "id": "213",
+    "name": "Pirate Corsair"
+  },
+  {
+    "id": "214",
+    "name": "Pirate Deadeye"
+  },
+  {
+    "id": "215",
+    "name": "Pirate Crossbower"
+  },
+  {
+    "id": "216",
+    "name": "Pirate Captain"
+  },
+  {
+    "id": "217",
+    "name": "Cochineal Beetle"
+  },
+  {
+    "id": "218",
+    "name": "Cyan Beetle"
+  },
+  {
+    "id": "219",
+    "name": "Lac Beetle"
+  },
+  {
+    "id": "220",
+    "name": "Sea Snail"
+  },
+  {
+    "id": "221",
+    "name": "Squid"
+  },
+  {
+    "id": "222",
+    "name": "Queen Bee"
+  },
+  {
+    "id": "223",
+    "name": "Raincoat Zombie"
+  },
+  {
+    "id": "224",
+    "name": "Flying Fish"
+  },
+  {
+    "id": "225",
+    "name": "Umbrella Slime"
+  },
+  {
+    "id": "226",
+    "name": "Flying Snake"
+  },
+  {
+    "id": "227",
+    "name": "Painter"
+  },
+  {
+    "id": "228",
+    "name": "Witch Doctor"
+  },
+  {
+    "id": "229",
+    "name": "Pirate"
+  },
+  {
+    "id": "230",
+    "name": "Goldfish"
+  },
+  {
+    "id": "231",
+    "name": "Hornet"
+  },
+  {
+    "id": "232",
+    "name": "Hornet"
+  },
+  {
+    "id": "233",
+    "name": "Hornet"
+  },
+  {
+    "id": "234",
+    "name": "Hornet"
+  },
+  {
+    "id": "235",
+    "name": "Hornet"
+  },
+  {
+    "id": "236",
+    "name": "Jungle Creeper"
+  },
+  {
+    "id": "237",
+    "name": "Jungle Creeper"
+  },
+  {
+    "id": "238",
+    "name": "Black Recluse"
+  },
+  {
+    "id": "239",
+    "name": "Blood Crawler"
+  },
+  {
+    "id": "240",
+    "name": "Blood Crawler"
+  },
+  {
+    "id": "241",
+    "name": "Blood Feeder"
+  },
+  {
+    "id": "242",
+    "name": "Blood Jelly"
+  },
+  {
+    "id": "243",
+    "name": "Ice Golem"
+  },
+  {
+    "id": "244",
+    "name": "Rainbow Slime"
+  },
+  {
+    "id": "245",
+    "name": "Golem"
+  },
+  {
+    "id": "246",
+    "name": "Golem Head"
+  },
+  {
+    "id": "247",
+    "name": "Golem Fist"
+  },
+  {
+    "id": "248",
+    "name": "Golem Fist"
+  },
+  {
+    "id": "249",
+    "name": "Golem Head"
+  },
+  {
+    "id": "250",
+    "name": "Angry Nimbus"
+  },
+  {
+    "id": "251",
+    "name": "Eyezor"
+  },
+  {
+    "id": "252",
+    "name": "Parrot"
+  },
+  {
+    "id": "253",
+    "name": "Reaper"
+  },
+  {
+    "id": "254",
+    "name": "Spore Zombie"
+  },
+  {
+    "id": "255",
+    "name": "Spore Zombie"
+  },
+  {
+    "id": "256",
+    "name": "Fungo Fish"
+  },
+  {
+    "id": "257",
+    "name": "Anomura Fungus"
+  },
+  {
+    "id": "258",
+    "name": "Mushi Ladybug"
+  },
+  {
+    "id": "259",
+    "name": "Fungi Bulb"
+  },
+  {
+    "id": "260",
+    "name": "Giant Fungi Bulb"
+  },
+  {
+    "id": "261",
+    "name": "Fungi Spore"
+  },
+  {
+    "id": "262",
+    "name": "Plantera"
+  },
+  {
+    "id": "263",
+    "name": "Plantera's Hook"
+  },
+  {
+    "id": "264",
+    "name": "Plantera's Tentacle"
+  },
+  {
+    "id": "265",
+    "name": "Spore"
+  },
+  {
+    "id": "266",
+    "name": "Brain of Cthulhu"
+  },
+  {
+    "id": "267",
+    "name": "Creeper"
+  },
+  {
+    "id": "268",
+    "name": "Ichor Sticker"
+  },
+  {
+    "id": "269",
+    "name": "Rusty Armored Bones"
+  },
+  {
+    "id": "270",
+    "name": "Rusty Armored Bones"
+  },
+  {
+    "id": "271",
+    "name": "Rusty Armored Bones"
+  },
+  {
+    "id": "272",
+    "name": "Rusty Armored Bones"
+  },
+  {
+    "id": "273",
+    "name": "Blue Armored Bones"
+  },
+  {
+    "id": "274",
+    "name": "Blue Armored Bones"
+  },
+  {
+    "id": "275",
+    "name": "Blue Armored Bones"
+  },
+  {
+    "id": "276",
+    "name": "Blue Armored Bones"
+  },
+  {
+    "id": "277",
+    "name": "Hell Armored Bones"
+  },
+  {
+    "id": "278",
+    "name": "Hell Armored Bones"
+  },
+  {
+    "id": "279",
+    "name": "Hell Armored Bones"
+  },
+  {
+    "id": "280",
+    "name": "Hell Armored Bones"
+  },
+  {
+    "id": "281",
+    "name": "Ragged Caster"
+  },
+  {
+    "id": "282",
+    "name": "Ragged Caster"
+  },
+  {
+    "id": "283",
+    "name": "Necromancer"
+  },
+  {
+    "id": "284",
+    "name": "Necromancer"
+  },
+  {
+    "id": "285",
+    "name": "Diabolist"
+  },
+  {
+    "id": "286",
+    "name": "Diabolist"
+  },
+  {
+    "id": "287",
+    "name": "Bone Lee"
+  },
+  {
+    "id": "288",
+    "name": "Dungeon Spirit"
+  },
+  {
+    "id": "289",
+    "name": "Giant Cursed Skull"
+  },
+  {
+    "id": "290",
+    "name": "Paladin"
+  },
+  {
+    "id": "291",
+    "name": "Skeleton Sniper"
+  },
+  {
+    "id": "292",
+    "name": "Tactical Skeleton"
+  },
+  {
+    "id": "293",
+    "name": "Skeleton Commando"
+  },
+  {
+    "id": "294",
+    "name": "Angry Bones"
+  },
+  {
+    "id": "295",
+    "name": "Angry Bones"
+  },
+  {
+    "id": "296",
+    "name": "Angry Bones"
+  },
+  {
+    "id": "297",
+    "name": "Blue Jay"
+  },
+  {
+    "id": "298",
+    "name": "Cardinal"
+  },
+  {
+    "id": "299",
+    "name": "Squirrel"
+  },
+  {
+    "id": "300",
+    "name": "Mouse"
+  },
+  {
+    "id": "301",
+    "name": "Raven"
+  },
+  {
+    "id": "302",
+    "name": "Slime"
+  },
+  {
+    "id": "303",
+    "name": "Bunny"
+  },
+  {
+    "id": "304",
+    "name": "Hoppin' Jack"
+  },
+  {
+    "id": "305",
+    "name": "Scarecrow"
+  },
+  {
+    "id": "306",
+    "name": "Scarecrow"
+  },
+  {
+    "id": "307",
+    "name": "Scarecrow"
+  },
+  {
+    "id": "308",
+    "name": "Scarecrow"
+  },
+  {
+    "id": "309",
+    "name": "Scarecrow"
+  },
+  {
+    "id": "310",
+    "name": "Scarecrow"
+  },
+  {
+    "id": "311",
+    "name": "Scarecrow"
+  },
+  {
+    "id": "312",
+    "name": "Scarecrow"
+  },
+  {
+    "id": "313",
+    "name": "Scarecrow"
+  },
+  {
+    "id": "314",
+    "name": "Scarecrow"
+  },
+  {
+    "id": "315",
+    "name": "Headless Horseman"
+  },
+  {
+    "id": "316",
+    "name": "Ghost"
+  },
+  {
+    "id": "317",
+    "name": "Demon Eye"
+  },
+  {
+    "id": "318",
+    "name": "Demon Eye"
+  },
+  {
+    "id": "319",
+    "name": "Zombie"
+  },
+  {
+    "id": "320",
+    "name": "Zombie"
+  },
+  {
+    "id": "321",
+    "name": "Zombie"
+  },
+  {
+    "id": "322",
+    "name": "Skeleton"
+  },
+  {
+    "id": "323",
+    "name": "Skeleton"
+  },
+  {
+    "id": "324",
+    "name": "Skeleton"
+  },
+  {
+    "id": "325",
+    "name": "Mourning Wood"
+  },
+  {
+    "id": "326",
+    "name": "Splinterling"
+  },
+  {
+    "id": "327",
+    "name": "Pumpking"
+  },
+  {
+    "id": "328",
+    "name": "Pumpking"
+  },
+  {
+    "id": "329",
+    "name": "Hellhound"
+  },
+  {
+    "id": "330",
+    "name": "Poltergeist"
+  },
+  {
+    "id": "331",
+    "name": "Zombie"
+  },
+  {
+    "id": "332",
+    "name": "Zombie"
+  },
+  {
+    "id": "333",
+    "name": "Slime"
+  },
+  {
+    "id": "334",
+    "name": "Slime"
+  },
+  {
+    "id": "335",
+    "name": "Slime"
+  },
+  {
+    "id": "336",
+    "name": "Slime"
+  },
+  {
+    "id": "337",
+    "name": "Bunny"
+  },
+  {
+    "id": "338",
+    "name": "Zombie Elf"
+  },
+  {
+    "id": "339",
+    "name": "Zombie Elf"
+  },
+  {
+    "id": "340",
+    "name": "Zombie Elf"
+  },
+  {
+    "id": "341",
+    "name": "Present Mimic"
+  },
+  {
+    "id": "342",
+    "name": "Gingerbread Man"
+  },
+  {
+    "id": "343",
+    "name": "Yeti"
+  },
+  {
+    "id": "344",
+    "name": "Everscream"
+  },
+  {
+    "id": "345",
+    "name": "Ice Queen"
+  },
+  {
+    "id": "346",
+    "name": "Santa-NK1"
+  },
+  {
+    "id": "347",
+    "name": "Elf Copter"
+  },
+  {
+    "id": "348",
+    "name": "Nutcracker"
+  },
+  {
+    "id": "349",
+    "name": "Nutcracker"
+  },
+  {
+    "id": "350",
+    "name": "Elf Archer"
+  },
+  {
+    "id": "351",
+    "name": "Krampus"
+  },
+  {
+    "id": "352",
+    "name": "Flocko"
+  },
+  {
+    "id": "353",
+    "name": "Stylist"
+  },
+  {
+    "id": "354",
+    "name": "Webbed Stylist"
+  },
+  {
+    "id": "355",
+    "name": "Firefly"
+  },
+  {
+    "id": "356",
+    "name": "Butterfly"
+  },
+  {
+    "id": "357",
+    "name": "Worm"
+  },
+  {
+    "id": "358",
+    "name": "Lightning Bug"
+  },
+  {
+    "id": "359",
+    "name": "Snail"
+  },
+  {
+    "id": "360",
+    "name": "Glowing Snail"
+  },
+  {
+    "id": "361",
+    "name": "Frog"
+  },
+  {
+    "id": "362",
+    "name": "Duck"
+  },
+  {
+    "id": "363",
+    "name": "Duck"
+  },
+  {
+    "id": "364",
+    "name": "Duck"
+  },
+  {
+    "id": "365",
+    "name": "Duck"
+  },
+  {
+    "id": "366",
+    "name": "Scorpion"
+  },
+  {
+    "id": "367",
+    "name": "Scorpion"
+  },
+  {
+    "id": "368",
+    "name": "Traveling Merchant"
+  },
+  {
+    "id": "369",
+    "name": "Angler"
+  },
+  {
+    "id": "370",
+    "name": "Duke Fishron"
+  },
+  {
+    "id": "371",
+    "name": "Detonating Bubble"
+  },
+  {
+    "id": "372",
+    "name": "Sharkron"
+  },
+  {
+    "id": "373",
+    "name": "Sharkron"
+  },
+  {
+    "id": "374",
+    "name": "Truffle Worm"
+  },
+  {
+    "id": "375",
+    "name": "Truffle Worm"
+  },
+  {
+    "id": "376",
+    "name": "Sleeping Angler"
+  },
+  {
+    "id": "377",
+    "name": "Grasshopper"
+  },
+  {
+    "id": "378",
+    "name": "Chattering Teeth Bomb"
+  },
+  {
+    "id": "379",
+    "name": "Blue Cultist Archer"
+  },
+  {
+    "id": "380",
+    "name": "White Cultist Archer"
+  },
+  {
+    "id": "381",
+    "name": "Brain Scrambler"
+  },
+  {
+    "id": "382",
+    "name": "Ray Gunner"
+  },
+  {
+    "id": "383",
+    "name": "Martian Officer"
+  },
+  {
+    "id": "384",
+    "name": "Bubble Shield"
+  },
+  {
+    "id": "385",
+    "name": "Gray Grunt"
+  },
+  {
+    "id": "386",
+    "name": "Martian Engineer"
+  },
+  {
+    "id": "387",
+    "name": "Tesla Turret"
+  },
+  {
+    "id": "388",
+    "name": "Martian Drone"
+  },
+  {
+    "id": "389",
+    "name": "Gigazapper"
+  },
+  {
+    "id": "390",
+    "name": "Scutlix Gunner"
+  },
+  {
+    "id": "391",
+    "name": "Scutlix"
+  },
+  {
+    "id": "392",
+    "name": "Martian Saucer"
+  },
+  {
+    "id": "393",
+    "name": "Martian Saucer Turret"
+  },
+  {
+    "id": "394",
+    "name": "Martian Saucer Cannon"
+  },
+  {
+    "id": "395",
+    "name": "Martian Saucer"
+  },
+  {
+    "id": "396",
+    "name": "Moon Lord"
+  },
+  {
+    "id": "397",
+    "name": "Moon Lord's Hand"
+  },
+  {
+    "id": "398",
+    "name": "Moon Lord's Core"
+  },
+  {
+    "id": "399",
+    "name": "Martian Probe"
+  },
+  {
+    "id": "400",
+    "name": ""
+  },
+  {
+    "id": "401",
+    "name": ""
+  },
+  {
+    "id": "402",
+    "name": "Milkyway Weaver"
+  },
+  {
+    "id": "405",
+    "name": "Star Cell"
+  },
+  {
+    "id": "406",
+    "name": "Star Cell"
+  },
+  {
+    "id": "407",
+    "name": "Flow Invader"
+  },
+  {
+    "id": "409",
+    "name": "Twinkle Popper"
+  },
+  {
+    "id": "410",
+    "name": "Twinkle"
+  },
+  {
+    "id": "411",
+    "name": "Stargazer"
+  },
+  {
+    "id": "412",
+    "name": "Crawltipede"
+  },
+  {
+    "id": "413",
+    "name": "Crawltipede"
+  },
+  {
+    "id": "414",
+    "name": "Crawltipede"
+  },
+  {
+    "id": "415",
+    "name": "Drakomire"
+  },
+  {
+    "id": "416",
+    "name": "Drakomire Rider"
+  },
+  {
+    "id": "417",
+    "name": "Sroller"
+  },
+  {
+    "id": "418",
+    "name": "Corite"
+  },
+  {
+    "id": "419",
+    "name": "Selenian"
+  },
+  {
+    "id": "420",
+    "name": "Nebula Floater"
+  },
+  {
+    "id": "421",
+    "name": "Brain Suckler"
+  },
+  {
+    "id": "422",
+    "name": "Vortex Pillar"
+  },
+  {
+    "id": "423",
+    "name": "Evolution Beast"
+  },
+  {
+    "id": "424",
+    "name": "Predictor"
+  },
+  {
+    "id": "425",
+    "name": "Storm Diver"
+  },
+  {
+    "id": "426",
+    "name": "Alien Queen"
+  },
+  {
+    "id": "427",
+    "name": "Alien Hornet"
+  },
+  {
+    "id": "428",
+    "name": "Alien Larva"
+  },
+  {
+    "id": "429",
+    "name": "Vortexian"
+  },
+  {
+    "id": "430",
+    "name": "Zombie"
+  },
+  {
+    "id": "431",
+    "name": "Zombie Eskimo"
+  },
+  {
+    "id": "432",
+    "name": "Zombie"
+  },
+  {
+    "id": "433",
+    "name": "Zombie"
+  },
+  {
+    "id": "434",
+    "name": "Zombie"
+  },
+  {
+    "id": "435",
+    "name": "Zombie"
+  },
+  {
+    "id": "436",
+    "name": "Zombie"
+  },
+  {
+    "id": "437",
+    "name": "Mysterious Tablet"
+  },
+  {
+    "id": "438",
+    "name": "Lunatic Devote"
+  },
+  {
+    "id": "439",
+    "name": "Lunatic Cultist"
+  },
+  {
+    "id": "440",
+    "name": "Lunatic Cultist"
+  },
+  {
+    "id": "441",
+    "name": ""
+  },
+  {
+    "id": "442",
+    "name": "Gold Bird"
+  },
+  {
+    "id": "443",
+    "name": "Gold Bunny"
+  },
+  {
+    "id": "444",
+    "name": "Gold Butterfly"
+  },
+  {
+    "id": "445",
+    "name": "Gold Frog"
+  },
+  {
+    "id": "446",
+    "name": "Gold Grasshopper"
+  },
+  {
+    "id": "447",
+    "name": "Gold Mouse"
+  },
+  {
+    "id": "448",
+    "name": "Gold Worm"
+  },
+  {
+    "id": "449",
+    "name": "Skeleton"
+  },
+  {
+    "id": "450",
+    "name": "Skeleton"
+  },
+  {
+    "id": "451",
+    "name": "Skeleton"
+  },
+  {
+    "id": "452",
+    "name": "Skeleton"
+  },
+  {
+    "id": "453",
+    "name": ""
+  },
+  {
+    "id": "454",
+    "name": "Phantasm Dragon"
+  },
+  {
+    "id": "455",
+    "name": "Phantasm Dragon"
+  },
+  {
+    "id": "456",
+    "name": "Phantasm Dragon"
+  },
+  {
+    "id": "457",
+    "name": "Phantasm Dragon"
+  },
+  {
+    "id": "458",
+    "name": "Phantasm Dragon"
+  },
+  {
+    "id": "459",
+    "name": "Phantasm Dragon"
+  },
+  {
+    "id": "460",
+    "name": "Butcher"
+  },
+  {
+    "id": "461",
+    "name": "Creature from the Deep"
+  },
+  {
+    "id": "462",
+    "name": "Fritz"
+  },
+  {
+    "id": "463",
+    "name": "Nailhead"
+  },
+  {
+    "id": "464",
+    "name": "Crimtane Bunny"
+  },
+  {
+    "id": "465",
+    "name": "Crimtane Goldfish"
+  },
+  {
+    "id": "466",
+    "name": "Psycho"
+  },
+  {
+    "id": "467",
+    "name": "Deadly Sphere"
+  },
+  {
+    "id": "468",
+    "name": "Dr. Man Fly"
+  },
+  {
+    "id": "469",
+    "name": "The Possessed"
+  },
+  {
+    "id": "470",
+    "name": "Vicious Penguin"
+  },
+  {
+    "id": "471",
+    "name": "Goblin Summoner"
+  },
+  {
+    "id": "472",
+    "name": "Shadowflame Apparation"
+  },
+  {
+    "id": "473",
+    "name": "Corrupt Mimic"
+  },
+  {
+    "id": "474",
+    "name": "Crimson Mimic"
+  },
+  {
+    "id": "475",
+    "name": "Hallowed Mimic"
+  },
+  {
+    "id": "476",
+    "name": "Jungle Mimic"
+  },
+  {
+    "id": "477",
+    "name": "Mothron"
+  },
+  {
+    "id": "478",
+    "name": "Mothron Egg"
+  },
+  {
+    "id": "479",
+    "name": "Baby Mothron"
+  },
+  {
+    "id": "480",
+    "name": "Medusa"
+  },
+  {
+    "id": "481",
+    "name": "Hoplite"
+  },
+  {
+    "id": "482",
+    "name": "Granite Golem"
+  },
+  {
+    "id": "483",
+    "name": "Granite Elemental"
+  },
+  {
+    "id": "484",
+    "name": "Enchanted Nightcrawler"
+  },
+  {
+    "id": "485",
+    "name": "Grubby"
+  },
+  {
+    "id": "486",
+    "name": "Sluggy"
+  },
+  {
+    "id": "487",
+    "name": "Buggy"
+  },
+  {
+    "id": "488",
+    "name": "Target Dummy"
+  },
+  {
+    "id": "489",
+    "name": "Blood Zombie"
+  },
+  {
+    "id": "490",
+    "name": "Drippler"
+  },
+  {
+    "id": "491",
+    "name": ""
+  },
+  {
+    "id": "492",
+    "name": ""
+  },
+  {
+    "id": "493",
+    "name": "Stardust Pillar"
+  },
+  {
+    "id": "494",
+    "name": "Crawdad"
+  },
+  {
+    "id": "495",
+    "name": "Crawdad"
+  },
+  {
+    "id": "496",
+    "name": "Giant Shelly"
+  },
+  {
+    "id": "497",
+    "name": "Giant Shelly"
+  },
+  {
+    "id": "498",
+    "name": "Salamander"
+  },
+  {
+    "id": "499",
+    "name": "Salamander"
+  },
+  {
+    "id": "500",
+    "name": "Salamander"
+  },
+  {
+    "id": "501",
+    "name": "Salamander"
+  },
+  {
+    "id": "502",
+    "name": "Salamander"
+  },
+  {
+    "id": "503",
+    "name": "Salamander"
+  },
+  {
+    "id": "504",
+    "name": "Salamander"
+  },
+  {
+    "id": "505",
+    "name": "Salamander"
+  },
+  {
+    "id": "506",
+    "name": "Salamander"
+  },
+  {
+    "id": "507",
+    "name": "Nebula Pillar"
+  },
+  {
+    "id": "508",
+    "name": "Antlion Charger"
+  },
+  {
+    "id": "509",
+    "name": "Antlion Swarmer"
+  },
+  {
+    "id": "510",
+    "name": "Dune Splicer"
+  },
+  {
+    "id": "511",
+    "name": "Dune Splicer"
+  },
+  {
+    "id": "512",
+    "name": "Dune Splicer"
+  },
+  {
+    "id": "513",
+    "name": "Tomb Crawler"
+  },
+  {
+    "id": "514",
+    "name": "Tomb Crawler"
+  },
+  {
+    "id": "515",
+    "name": "Tomb Crawler"
+  },
+  {
+    "id": "516",
+    "name": "Solar Flare"
+  },
+  {
+    "id": "517",
+    "name": "Solar Pillar"
+  },
+  {
+    "id": "518",
+    "name": "Drakanian"
+  },
+  {
+    "id": "519",
+    "name": "Solar Fragment"
+  },
+  {
+    "id": "520",
+    "name": "Martian Walker"
+  },
+  {
+    "id": "521",
+    "name": "Ancient Vision"
+  },
+  {
+    "id": "522",
+    "name": "Ancient Light"
+  },
+  {
+    "id": "523",
+    "name": "Ancient Doom"
+  },
+  {
+    "id": "524",
+    "name": "Ghoul"
+  },
+  {
+    "id": "525",
+    "name": "Vile Ghoul"
+  },
+  {
+    "id": "526",
+    "name": "Tainted Ghoul"
+  },
+  {
+    "id": "527",
+    "name": "Dreamer Ghoul"
+  },
+  {
+    "id": "528",
+    "name": "Lamia"
+  },
+  {
+    "id": "529",
+    "name": "Lamia"
+  },
+  {
+    "id": "530",
+    "name": "Sand Poacher"
+  },
+  {
+    "id": "531",
+    "name": "Sand Poacher"
+  },
+  {
+    "id": "532",
+    "name": "Basilisk"
+  },
+  {
+    "id": "533",
+    "name": "Desert Spirit"
+  },
+  {
+    "id": "534",
+    "name": "Tortured Soul"
+  },
+  {
+    "id": "535",
+    "name": "Spiked Slime"
+  },
+  {
+    "id": "536",
+    "name": "The Bride"
+  },
+  {
+    "id": "537",
+    "name": "Sand Slime"
+  },
+  {
+    "id": "538",
+    "name": "Red Squirrel"
+  },
+  {
+    "id": "539",
+    "name": "Gold Squirrel"
+  },
+  {
+    "id": "540",
+    "name": "Bunny"
+  },
+  {
+    "id": "541",
+    "name": "Sand Elemental"
+  },
+  {
+    "id": "542",
+    "name": "Sand Shark"
+  },
+  {
+    "id": "543",
+    "name": "Bone Biter"
+  },
+  {
+    "id": "544",
+    "name": "Flesh Reaver"
+  },
+  {
+    "id": "545",
+    "name": "Crystal Thresher"
+  },
+  {
+    "id": "546",
+    "name": "Angry Tumbler"
+  }
+]
